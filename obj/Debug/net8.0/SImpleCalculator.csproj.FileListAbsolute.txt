@@ -1,0 +1,14 @@
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\bin\Debug\net8.0\SImpleCalculator.exe
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\bin\Debug\net8.0\SImpleCalculator.deps.json
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\bin\Debug\net8.0\SImpleCalculator.runtimeconfig.json
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\bin\Debug\net8.0\SImpleCalculator.dll
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\bin\Debug\net8.0\SImpleCalculator.pdb
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\SImpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\SImpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\SImpleCalculator.AssemblyInfo.cs
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\SImpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\SImpleCalculator.dll
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\refint\SImpleCalculator.dll
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\SImpleCalculator.pdb
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\SImpleCalculator.genruntimeconfig.cache
+C:\Users\Geek Technologies\Desktop\MyC#Projects\SImpleCalculator\obj\Debug\net8.0\ref\SImpleCalculator.dll
